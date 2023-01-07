@@ -5,3 +5,4 @@ Primeira alteração feita no repositório local
 
 Segundo commit feito no repositório remoto
 
+Terceiro commit
